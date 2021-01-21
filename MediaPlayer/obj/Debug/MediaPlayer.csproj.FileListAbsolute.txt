@@ -1,0 +1,45 @@
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MediaPlayer.exe
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MediaPlayer.pdb
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\bin\Debug\MediaPlayer.exe
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\bin\Debug\MediaPlayer.pdb
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MainWindow.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\App.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MainWindow.baml
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer - Kopia\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MediaPlayer.exe
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MediaPlayer.pdb
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\bin\Debug\MediaPlayer.exe
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\bin\Debug\MediaPlayer.pdb
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MainWindow.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\App.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MainWindow.baml
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+E:\PrzyszlyProgramista\C#\WPF\MediaPlayer + ProgressBar\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
